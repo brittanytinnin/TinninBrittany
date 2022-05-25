@@ -1,8 +1,10 @@
+<!---
 - 👋 Hi, I’m Brittany
 - 👀 I’m interested in Full Stack Software Development
 - 🌱 I’m currently learning Full Stack Software Architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 TinninBrittany/TinninBrittany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
