@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=btinnin&theme=wtf)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinninBrittany)](https://github.com/anuraghazra/github-readme-stats)
