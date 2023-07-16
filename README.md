@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinninBrittany&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Brittany's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinninBrittany)](https://github.com/anuraghazra/github-readme-stats)
+[![Brittany's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinninBrittany)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=btinnin&theme=wtf)
